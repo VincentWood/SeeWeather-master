@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.app.AppCompatDelegate;
 import butterknife.ButterKnife;
 import com.trello.rxlifecycle2.components.support.RxAppCompatActivity;
-
+//这是一个共性界面
 public abstract class BaseActivity extends RxAppCompatActivity {
     private static String TAG = BaseActivity.class.getSimpleName();
 
